@@ -1,0 +1,2 @@
+Hello Tc
+${application.version}
